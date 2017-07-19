@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WarsawGuide</string>
+
+    <string name="oldtown">Old Town</string>
+    <string name="oldtown_castle_title">Royal Castle</string>
+    <string name="oldtown_castle_description">Built in the 15th century, this castle served as residence of Mazovian princes. Once the capital was moved to Warsaw from Kraków, the castle served as seat of the king and the government. The castle has been renovated repeatedly and destroyed completely during World War II. It was rebuilt between 1971-1988 using castle remains and rubble. Today, the segment with the clock tower opens the way to the Old Town. Museum attractions include two original Rembrandt paintings as well as works by Bernardo Bellotto, aka Canaletto, court painter to Polish King Stanisław August Poniatowski. Canaletto’s paintings were vital during Warsaw’s post-war reconstruction.</string>
+
+    <string name="oldtown_stmartin_title">Church of St. Martin</string>
+    <string name="oldtown_stmartin_description">The church is located on Piwna Street, which is the longest street in the Old Town, with a length is 250 m. Founded in 1356 by the Duke of Mazovia Ziemowit and his wife Euphemia, it has been reconstructed. The main body of the church is baroque, and located next to the monastery are buildings of the Augustine priests, where the Mazovian voivodeship local councils took place in the 16th century. The church played a resistance role in the 1970s and \'80s, as it was a place where opposition members gathered.</string>
+
+    <string name="hotels">Hotels</string>
+    <string name="hotel_sleepwell_title">SleepWell Apartments Nowy Świat</string>
+    <string name="hotel_sleepwell_description">Located in the very centre of Warsaw, at the famous Nowy Świat Street surrounded by popular cafes and restaurants, just 2 minutes’ walk of the Krakowskie Przedmieście, SleepWell Apartments Nowy Świat are modern, design rooms with free Wi-Fi and LCD TV.
+Every individually designed room is decorated with original fabrics and décor. Each comes with a safety deposit box and a mini refrigerator. There are spacious, modern showers.</string>
+
+    <string name="hotel_metropol_title">Hotel Metropol</string>
+    <string name="hotel_metropol_description">Located just opposite Warsaw’s Palace of Culture and Science, Hotel Metropol offers spacious rooms with free WiFi. In the morning, guests can enjoy a varied breakfast, including traditional Polish dishes.
+Rooms at the Metropol feature a private bathroom and come with free toiletries. All feature a TV with satellite channels, as well as a work desk. The rooms overlook the centre of Warsaw.</string>
+
+    <string name="museums">Museums</string>
+    <string name="museum_chopin_title">Fryderyk Chopin Museum</string>
+    <string name="museum_chopin_desccription">Housed in Ostrogski Palace (Pałac Ostrogskich), strikingly situated on the Vistula escarpment, it is a baroque-classical jewel of a building. The Museum’s beginnings date back to the 1930s: in 1935, the Chopin Institute (as it was called then), founded by prominent representatives of culture, began to purchase and collect several valuable manuscripts from the composer’s relatives.
+As such, the museum’s exhibits make up the world’s richest and most varied collection of memorabilia related to both Chopin as an individual, and his work. The collection includes manuscripts and printed copies of Chopin’s works, his correspondence, autographs, notes, works of art, personal items belonging to the composer and his piano. There are also some extremely valuable and moving exhibits on show, most notably the post-mortem face mask, and a cast of his hand. </string>
+
+    <string name="museum_national_title">National Museum in Warsaw</string>
+    <string name="museum_national_description">The National Museum in Warsaw is home to over 800,000 exhibits of both Polish and worldwide art. They represent all epochs from antiquity to contemporary times, including paintings, sculptures, drawings, illustrations, photographs, numismatic items and objects of applied arts.
+The National Museum in Warsaw is proud of its state-of-the-art LED lighting used in only few museums across the world. LED lamps make it possible to adjust the intensity of light separately for every painting to even better emphasize their values.</string>
+
+    <string name="monuments">Monuments</string>
+    <string name="monument_waza_title">King Zygmunt III Waza Column</string>
+    <string name="monument_waza_description">The oldest and tallest secular monument in Warsaw was raised in 1644 by King Władysław IV, in honour of his father Zygmunt III Waza, who in 1596 moved the capital from Krakow to Warsaw. The monument stands 22 metres high with the actual figure of the King measuring 275 cm. The sword he holds in his right hand symbolises bravery, while the cross he holds in his left hand symbolises his readiness to fight evil. According to legend, should the King’s sword fall downward, disaster is sure to follow. The statue fell during World War II and its destroyed column placed inside the Royal Castle, where it can still be seen today.</string>
+
+    <string name="monument_mermaid_title">Monument of the Warsaw Mermaid</string>
+    <string name="monument_mermaid_description">The Mermaid Statue stands in the very centre of Old Town Square, surrounded by a fountain. Due to vandalism, the original statue had been moved to the grounds of the Historical Museum of Warsaw – the statue in the square is a copy.
+This is not the only one mermaid in Warsaw. Another is located on the bank of the Vistula River near Świętokrzyski Bridge and another near ulica Karowa.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
